@@ -6,6 +6,13 @@
 
 https://stackedit.io/
 
+> **Nota bene**: the original StackEdit does no longer support GitHub files and workspaces after GitHub changed its authorization format. While there already exists a fix, the related pull request has not yet been merged since StackEdit does not seem to be actively maintained in the moment.
+> 
+> This repository therefore contains nothing but the [original StackEdit](https://github.com/benweet/stackedit) source with the [bug fix](https://github.com/benweet/stackedit/pull/1724) written by [Alexander Zhigalin](https://github.com/Zhigalin) merged in.
+> 
+> **Thus, all credits actually go to [Benoit Schweblin](https://github.com/benweet) and [Alexander Zhigalin](https://github.com/Zhigalin)!**
+
+
 ### Ecosystem
 
 - [Chrome app](https://chrome.google.com/webstore/detail/iiooodelglhkcpgbajoejffhijaclcdg)
